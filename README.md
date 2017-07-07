@@ -17,7 +17,7 @@ SVM预测下个交易日的开盘价和涨跌情况
 主要的功能类在predict包中
 
 注2：
-需要将lib包中的加到工程的library中
+迁移到web工程时需要将lib包中的libsvm.jar加到工程的library中
 
 注3：
 有时间的话@馨中完成到Web项目的迁移
